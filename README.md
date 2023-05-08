@@ -1,5 +1,8 @@
 ### Olá,Eu sou a Pâmela Borges!
 
+Como estudante entusiasta da área de Tecnologia da Informação, busco oportunidades de estágio em Java ou C#, com foco em desenvolvimento de software e interesse em expandir minhas habilidades técnicas. 
+Estou aberta a novas hardskills e disposta a trabalhar em equipe para atingir objetivos desafiadores. Meu objetivo é adquirir experiência prática no desenvolvimento de software, aprimorar minhas habilidades em programação orientada a objetos, e aprender sobre metodologias ágeis de desenvolvimento de software
+
 <div align="center">
   <a href="https://github.com/pblda13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pblda13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
