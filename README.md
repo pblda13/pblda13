@@ -1,4 +1,7 @@
-### Olá,Eu sou a Pâmela Borges!
+# Olá, me chamo Pâmela Borges ! 
+## Bem vindo ao meu perfil GitHub 👋
+
+## Tenho 27 anos,moro em Cosmopólis - SP.Sou apaixonada pelo mundo  da tecnologia desde muito nova ,então sempre soube a aréa que eu gostaria de atuar profissionalmente. 
 
 
 
@@ -8,10 +11,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pblda13&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+
+## Ferramentas e Tecnologias
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+                    
+          
+          
+          
+</div>         
+
+
 
 <div> <br>
   <a href="https://instagram.com/haha_serio05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
