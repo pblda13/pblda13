@@ -10,9 +10,11 @@
 
 
 
-## Bem vindo ao meu perfil GitHub 👋
+## Bem-vindo ao meu perfil GitHub 👋
 
-## 👩‍💻 Estudante de programação apaixonada por desenvolvimento de software em JAVA e C#. Buscando constantemente aprimorar minhas habilidades e conhecimentos técnicos. Sou curiosa, determinada e gosto de enfrentar desafios para expandir meu domínio nessas linguagens de programação. 
+## 👩‍💻 Estudante de programação apaixonada por desenvolvimento de software em JAVA e C#. 
+Buscando constantemente aprimorar minhas habilidades e conhecimentos técnicos.
+Sou curiosa, determinada e gosto de enfrentar desafios para expandir meu domínio nessas linguagens de programação. 
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
