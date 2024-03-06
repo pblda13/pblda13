@@ -94,4 +94,7 @@ Sou uma entusiasta da programação apaixonada pelo desenvolvimento de software 
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
+
+<div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="28"> </h3> </div> 
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpblda13&label=Visitors&labelColor=%23f47373&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
